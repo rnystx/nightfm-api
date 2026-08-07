@@ -1,0 +1,7 @@
+{
+  "name": "nightfm-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.24.0"
+  }
+}
